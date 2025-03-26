@@ -1,0 +1,8 @@
+Exploratory Data Analysis on Hotel Reservation Dataset
+Skills/Technologies Used: Python liabraries (Pandas, Numpy, Matplotlib, Seaborn)
+•	Conducted an in-depth EDA on a hotel reservation dataset using python liabraries like Pandas, Numpy, Matplotlib and Seaborn.
+•	Cleaned and preprocesses data by handling missing values, detecting outliers, and ensuring data consistency.
+•	Analyzed booking trends, customer preferences, seasonal variations, and cancellation patterns.
+•	Explored key factors affecting reservation status, such as lead time, room type, customer demographics, and special requests.
+•	Visualized key insights using bar charts, histograms, boxplot and heatmaps.
+•	Derive business insights to help optimize pricing strategies, reduce cancellations, and improve customer experience,
